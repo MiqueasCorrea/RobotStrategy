@@ -12,4 +12,4 @@ El robot utiliza las interfaces `Voz` y `Expresion` para definir sus comportamie
 - Aumenta la cantidad de clases.  
 - Puede ser innecesario en proyectos pequeños.
 
-![uml](robot.png)
+![uml](robotv2.png)
